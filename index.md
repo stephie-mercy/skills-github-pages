@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+stephie mercy: Welcome to my Github blog
 ---
 
